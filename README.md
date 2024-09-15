@@ -28,3 +28,9 @@ We evaluate different models using metrics such as RMSE (Root Mean Squared Error
 
 3. **Hyperparameter Tuning**
     - GridSearchCV is used for hyperparameter tuning of models like Random Forest and SVR.
+   
+
+### Instructions:
+1. Replace `MahithaSriDara' with your GitHub username.
+2. Customize the description to fit your exact project details, especially the model types and data sources.
+3. If you have a different folder structure, update the "File Structure" section accordingly.
