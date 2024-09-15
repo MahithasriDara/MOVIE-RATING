@@ -30,7 +30,10 @@ We evaluate different models using metrics such as RMSE (Root Mean Squared Error
     - GridSearchCV is used for hyperparameter tuning of models like Random Forest and SVR.
    
 
-### Instructions:
-1. Replace `MahithasriDara' with your GitHub username.
-2. Customize the description to fit your exact project details, especially the model types and data sources.
-3. If you have a different folder structure, update the "File Structure" section accordingly.
+.
+├── data/
+│   └── Movie dataset.csv             # Raw movie data
+├── preprocessed_Movie_data.csv       # Preprocessed data
+├── train_models.py                   # Main script for training models
+├── requirements.txt                  # List of dependencies
+└── README.md                         # This README file
